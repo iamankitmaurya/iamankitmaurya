@@ -35,3 +35,11 @@
 [![](https://visitcount.itsvg.in/api?id=iamankitmaurya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/iamankitmaurya/iamankitmaurya/blob/output/snake.svg)
+
+</div>
